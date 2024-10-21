@@ -2,15 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She has just graduated from the MSc Urban Spatial Science program at UCL's Centre for Advanced Spatial Analysis (CASA), University College London (UCL), United Kingdom.
 
 #### Email
-sli[at]cumt.edu.cn
+yilan.bu.23[at]ucl.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+MSc, Urban Spatial Science, University College London (UCL), 2023—2024.\
+B.S., Human Geography and Urban and Rural Planning, Arizona State University (ASU), 2019—2023.
+B.S., Human Geography and Urban and Rural Planning, Hainan University (HNU), 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Spatio-temporal Analytics and Big Data Mining (STDM), Machine Learning, Deep Learning, Urban Modeling.
 
